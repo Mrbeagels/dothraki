@@ -1,0 +1,17 @@
+.font{
+    font-family: 'Foucault', sans-serif;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #333 !important;
+    color: #f1f1f1 !important;
+}
+.container{
+    background-color: grey;
+    border-radius: 5px;
+}
+.footerIcons{
+height: 80px;
+width: 80px;
+}
